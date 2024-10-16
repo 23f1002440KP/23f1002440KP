@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... --> 
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Krishna Prajapati 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/23f1002440KP?label=Follow&style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/23f1002440KP?style=social)
